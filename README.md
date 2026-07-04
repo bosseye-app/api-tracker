@@ -82,9 +82,7 @@ All editors are built on top of a shared `lineNumberEditor` — a custom `NSView
 
 A code editor for JSON content with **syntax highlighting** and one-click Pretty/Minified formatting.
 
-<table>
-<tr>
-<td width="70%">
+![JSON Editor Screenshot](screenshots/json-editor.png)
 
 **Features:**
 - Real-time syntax highlighting: keys (green), strings (yellow), numbers (purple), booleans/null (purple), punctuation (gray)
@@ -110,24 +108,13 @@ struct ContentView: View {
 }
 ```
 
-</td>
-<td width="30%">
-
-![JSON Editor Screenshot](screenshots/json-editor.png)
-
-</td>
-</tr>
-</table>
-
 ---
 
 ### 2. Script Editor
 
 A JavaScript/script editor designed for **pre-request** and **post-response** scripting scenarios.
 
-<table>
-<tr>
-<td width="70%">
+![Script Editor Screenshot](screenshots/script-editor.png)
 
 **Features:**
 - Supports JavaScript keywords (`const`, `let`, `function`, `if`, `return`, `async`, `await`, etc.)
@@ -148,24 +135,13 @@ ScriptEditorView(
 .frame(minWidth: 500, minHeight: 300)
 ```
 
-</td>
-<td width="30%">
-
-![Script Editor Screenshot](screenshots/script-editor.png)
-
-</td>
-</tr>
-</table>
-
 ---
 
 ### 3. Query Parameter Editor
 
 A lightweight editor for **URL query parameters** in `key=value` format with `&` separators.
 
-<table>
-<tr>
-<td width="70%">
+![Query Editor Screenshot](screenshots/query-editor.png)
 
 **Features:**
 - Key coloring (green) vs. value coloring (yellow)
@@ -184,24 +160,13 @@ QueryBulkEditorView(text: $queryText)
     .frame(minWidth: 500, minHeight: 200)
 ```
 
-</td>
-<td width="30%">
-
-![Query Editor Screenshot](screenshots/query-editor.png)
-
-</td>
-</tr>
-</table>
-
 ---
 
 ### 4. cURL Editor
 
 A self-contained **cURL command importer** that validates, tokenizes, and parses cURL commands into structured request components.
 
-<table>
-<tr>
-<td width="70%">
+![cURL Editor Screenshot](screenshots/curl-editor.png)
 
 **Features:**
 - Paste any **cURL** command (including multi-line `\` continuations)
@@ -230,15 +195,6 @@ CurlEditorView(
 )
 .frame(width: 800, height: 500)
 ```
-
-</td>
-<td width="30%">
-
-![cURL Editor Screenshot](screenshots/curl-editor.png)
-
-</td>
-</tr>
-</table>
 
 ---
 
