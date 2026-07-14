@@ -1,3 +1,16 @@
+//
+//  CurlEditorService.swift
+//  API Tracker and Monitor - Debug
+//  https://apps.apple.com/app/id6787642796
+//
+//  Copyright © 2026 bosseye app. All rights reserved.
+//
+//  Tokenizer and parser that breaks down cURL commands into structured
+//  request components: method, headers, query params, body, and auth.
+//  Perfect for importing API calls from documentation or terminal history
+//  straight into your monitoring workspace.
+//
+
 import Foundation
 
 // MARK: - cURL Import Result

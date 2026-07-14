@@ -1,3 +1,15 @@
+//
+//  QueryBulkEditorView.swift
+//  API Tracker and Monitor - Debug
+//  https://apps.apple.com/app/id6787642796
+//
+//  Copyright © 2026 bosseye app. All rights reserved.
+//
+//  Bulk editor for URL query parameters in key=value format. Distinct
+//  coloring separates parameter names from values, making it easy to tweak
+//  pagination, filters, and search terms when testing REST endpoints.
+//
+
 import SwiftUI
 
 /// Query parameter editor: key=value format with distinct colors for key and value; `#` starts a comment.

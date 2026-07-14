@@ -1,3 +1,15 @@
+//
+//  JsonHighlightService.swift
+//  API Tracker and Monitor - Debug
+//  https://apps.apple.com/app/id6787642796
+//
+//  Copyright © 2026 bosseye app. All rights reserved.
+//
+//  Per-line JSON syntax highlighting with graceful error recovery. A broken
+//  bracket or misplaced comma won't cascade — each line resets independently,
+//  so you can keep reading API responses even when the payload is malformed.
+//
+
 import SwiftUI
 
 /// JSON syntax highlighting service with per-line fault tolerance.

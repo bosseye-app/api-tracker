@@ -1,3 +1,15 @@
+//
+//  JsonEditorView.swift
+//  API Tracker and Monitor - Debug
+//  https://apps.apple.com/app/id6787642796
+//
+//  Copyright © 2026 bosseye app. All rights reserved.
+//
+//  A fault-tolerant JSON editor with live syntax highlighting and one-click
+//  Pretty Print / Minify formatting. Designed for inspecting API response
+//  payloads and hand-crafting request bodies during endpoint debugging.
+//
+
 import SwiftUI
 
 /// A compact editor with line numbers and JSON syntax highlighting, supporting Pretty/Minified formatting.

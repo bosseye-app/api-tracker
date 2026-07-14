@@ -1,3 +1,5 @@
+# [API Tracker and Monitor - Debug](https://apps.apple.com/app/id6787642796)
+
 # 隐私政策
 
 **最后更新：2026 年 7 月 5 日**

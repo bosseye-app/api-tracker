@@ -1,3 +1,5 @@
+# [API Tracker and Monitor - Debug](https://apps.apple.com/app/id6787642796)
+
 # Datenschutzerklärung
 
 **Letzte Aktualisierung: 5. Juli 2026**

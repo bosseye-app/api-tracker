@@ -1,3 +1,15 @@
+//
+//  QueryHighlightService.swift
+//  API Tracker and Monitor - Debug
+//  https://apps.apple.com/app/id6787642796
+//
+//  Copyright © 2026 bosseye app. All rights reserved.
+//
+//  Syntax highlighting engine for URL query strings. Highlights keys (green),
+//  values (yellow), and comment lines (`#`) — a small but sharp tool for
+//  keeping your API parameters readable while monitoring live traffic.
+//
+
 import SwiftUI
 
 /// Query parameter syntax highlighting service (key=value format).

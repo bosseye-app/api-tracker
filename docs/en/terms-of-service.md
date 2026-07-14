@@ -1,3 +1,5 @@
+# [API Tracker and Monitor - Debug](https://apps.apple.com/app/id6787642796)
+
 # Terms of Service
 
 **Last updated: July 5, 2026**

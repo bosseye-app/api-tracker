@@ -9,8 +9,9 @@
   Design, test, monitor, and document REST APIs, GraphQL endpoints, and WebSocket connections — all from a single application.
 </p>
 
-> ⚠️ **API Tracker is currently in active development and not yet available on the App Store.**  
-> We are open-sourcing four core editor components ahead of the full release. Contributions and feedback are welcome!
+> 🎉 **API Tracker is now available on the Mac App Store!**  
+> [![Download on the Mac App Store](https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1746748800)](https://apps.apple.com/app/id6787642796)  
+> We are open-sourcing four core editor components. Contributions and feedback are welcome!
 
 ---
 
@@ -24,7 +25,6 @@
   - [4. cURL Editor](#4-curl-editor)
 - [Usage (Adding to Your Xcode Project)](#usage-adding-to-your-xcode-project)
 - [Requirements](#requirements)
-- [Roadmap](#roadmap)
 - [License](#license)
 
 ---
@@ -241,18 +241,6 @@ All four editor views include built-in `#Preview` blocks. Open any editor file i
 
 ---
 
-## Roadmap
-
-- [ ] App Store submission
-- [ ] Environment variables management
-- [ ] API collection import (Postman, Insomnia, OpenAPI)
-- [ ] Response diff viewer
-- [ ] Request chaining and data extraction
-- [ ] Team workspace sharing
-- [ ] HTTP/2 and HTTP/3 support
-
----
-
 ## License
 
 The Editor Components (`Sources/`) are released under the **MIT License**. See [LICENSE](LICENSE) for details.
@@ -260,6 +248,12 @@ The Editor Components (`Sources/`) are released under the **MIT License**. See [
 The full API Tracker application source code is currently proprietary. We plan to evaluate broader open-source licensing options after the App Store launch.
 
 ---
+
+<p align="center">
+  <a href="https://apps.apple.com/app/id6787642796">
+    <img src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1746748800" alt="Download on the Mac App Store">
+  </a>
+</p>
 
 <p align="center">
   Made with ❤️ for macOS developers who build and test APIs every day.

@@ -1,3 +1,15 @@
+//
+//  CurlEditorView.swift
+//  API Tracker and Monitor - Debug
+//  https://apps.apple.com/app/id6787642796
+//
+//  Copyright © 2026 bosseye app. All rights reserved.
+//
+//  Paste any cURL command and instantly turn it into a structured API request.
+//  Handles everything from Bearer tokens to multipart forms — a handy bridge
+//  between terminal workflows and the API Tracker debugging environment.
+//
+
 import SwiftUI
 
 /// A self-contained cURL command importer. Validates and parses cURL commands

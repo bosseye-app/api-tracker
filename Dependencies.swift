@@ -1,3 +1,15 @@
+//
+//  Dependencies.swift
+//  API Tracker and Monitor - Debug
+//  https://apps.apple.com/app/id6787642796
+//
+//  Copyright © 2026 bosseye app. All rights reserved.
+//
+//  Shared theme colors, layout constants, and request data models for the
+//  API Tracker toolkit. These building blocks power everything from REST
+//  endpoint configuration to WebSocket debugging and GraphQL query editing.
+//
+
 import SwiftUI
 
 // MARK: - Color Extension

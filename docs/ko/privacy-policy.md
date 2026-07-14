@@ -1,3 +1,5 @@
+# [API Tracker and Monitor - Debug](https://apps.apple.com/app/id6787642796)
+
 # 개인정보 처리방침
 
 **최종 업데이트: 2026년 7월 5일**

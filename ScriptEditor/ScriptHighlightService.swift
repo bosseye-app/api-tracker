@@ -1,3 +1,16 @@
+//
+//  ScriptHighlightService.swift
+//  API Tracker and Monitor - Debug
+//  https://apps.apple.com/app/id6787642796
+//
+//  Copyright © 2026 bosseye app. All rights reserved.
+//
+//  JavaScript syntax highlighter covering keywords, template literals, arrow
+//  functions, and async/await patterns. A lightweight tokenizer that makes
+//  script editing feel natural when you're wiring up automated API tests
+//  and monitoring routines.
+//
+
 import SwiftUI
 
 /// JavaScript/script syntax highlighting service.

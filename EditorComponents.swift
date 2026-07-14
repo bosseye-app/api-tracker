@@ -1,3 +1,15 @@
+//
+//  EditorComponents.swift
+//  API Tracker and Monitor - Debug
+//  https://apps.apple.com/app/id6787642796
+//
+//  Copyright © 2026 bosseye app. All rights reserved.
+//
+//  Foundation layer for syntax-highlighted code editors. Provides the shared
+//  lineNumberEditor NSViewRepresentable and HighlightToken model used by the
+//  JSON, JavaScript, query parameter, and cURL editors throughout the app.
+//
+
 import SwiftUI
 
 // MARK: - Highlight Token Model

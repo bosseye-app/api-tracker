@@ -1,3 +1,5 @@
+# [API Tracker and Monitor - Debug](https://apps.apple.com/app/id6787642796)
+
 # 利用規約
 
 **最終更新日: 2026年7月5日**

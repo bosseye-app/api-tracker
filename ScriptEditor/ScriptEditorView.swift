@@ -1,3 +1,15 @@
+//
+//  ScriptEditorView.swift
+//  API Tracker and Monitor - Debug
+//  https://apps.apple.com/app/id6787642796
+//
+//  Copyright © 2026 bosseye app. All rights reserved.
+//
+//  JavaScript editor for pre-request and post-response scripting. Write
+//  dynamic logic that modifies headers, transforms payloads, or chains
+//  multiple API calls — all within the API Tracker debugging workflow.
+//
+
 import SwiftUI
 
 /// JavaScript/script syntax-highlighting editor with keyword, string, number, comment, and identifier coloring.
